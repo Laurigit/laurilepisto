@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on [Magic the Gathering statskeeper.](https://github.com/Laurigit/mstat)
 
-- 🌱 I’m currently learning **dbt and considering refactirubg my legacy SQL**
+- 🌱 I’m currently learning **dbt and considering refactoring my legacy SQL**
 
 - 👯 There are multiple repositories that extend the functionalities [Like deck builder, life counter, etc.](https://github.com/Laurigit)
 
