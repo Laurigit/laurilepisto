@@ -1,4 +1,4 @@
-app_main.PNG
+
 <h1 align="center">Hi, I'm Lauri Lepistö</h1>
 <h3 align="center">A fullstack analytics(R,Shiny,SQL,docker,AWS) hobbyist</h3>
 
@@ -17,10 +17,9 @@ app_main.PNG
 - 👨‍💻 All of my projects are available at [https://github.com/Laurigit](https://github.com/Laurigit)
 
 - 💬 Ask me about **R Shiny and dbt!**
-
-<h3 align="left">Have a look at a screenshot of the statskeeper</h3>
+- Have a look at a screenshot of the statskeeper
 ![](app_main.PNG)
-<p align="left">
+
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
