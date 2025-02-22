@@ -17,7 +17,8 @@
 
 - 💬 Ask me about **R Shiny and dbt!**
 
-<h3 align="left">Connect with me:</h3>
+<h3 align="left">Have a look at a screenshot of the statskeeper</h3>
+![](app_main.PNG)
 <p align="left">
 </p>
 
