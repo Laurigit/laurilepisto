@@ -1,3 +1,4 @@
+app_main.PNG
 <h1 align="center">Hi, I'm Lauri Lepistö</h1>
 <h3 align="center">A fullstack analytics(R,Shiny,SQL,docker,AWS) hobbyist</h3>
 
